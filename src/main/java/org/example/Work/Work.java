@@ -18,7 +18,6 @@ public class Work {
         System.out.println(stringInput.charAt(0));
 
         System.out.println();
-
     }
 
 }
