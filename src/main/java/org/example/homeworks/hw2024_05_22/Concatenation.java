@@ -1,4 +1,4 @@
-package org.example.hw2024_05_22;
+package org.example.homeworks.hw2024_05_22;
 
 public class Concatenation {
     public static void main(String[] args) {

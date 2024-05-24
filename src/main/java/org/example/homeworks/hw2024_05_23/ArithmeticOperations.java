@@ -1,4 +1,4 @@
-package org.example.hw2024_05_23;
+package org.example.homeworks.hw2024_05_23;
 
 public class ArithmeticOperations {
     // Метод для сложения //add=принимает два целых числа и возвращает сумму
